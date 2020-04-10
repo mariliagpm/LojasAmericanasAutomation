@@ -1,0 +1,8 @@
+selenium/utils/WebDriverProvider.class
+selenium/interactions/HomeInteraction.class
+stepDefinitions/homePage/StepsHomePage.class
+runners/TestRunner.class
+selenium/pageobjects/HomePage.class
+selenium/configurations/TestConfig.class
+selenium/SeleniumTestWrapper.class
+selenium/pageobjects/Pages.class

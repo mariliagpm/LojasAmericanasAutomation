@@ -1,0 +1,12 @@
+2020-04-10 03:14:22 [INFO ] [Choosing  a product][3][StepsLoginPage] - [initiTestingFirefox] Scenario  Choosing  a product has started
+2020-04-10 03:14:22 [INFO ] [Choosing  a product][3][StepsLoginPage] - [initiTestingFirefox] Scenario  Choosing  a product is running on Firefox
+2020-04-10 03:14:22 [ERROR] [Choosing  a product][3][HomeInteraction] - [navigateToHomePage] It was not possible to redirect to HomePage
+2020-04-10 03:14:22 [ERROR] [Choosing  a product][3][HomeInteraction] - [navigateToHomePage] Browsing context has been discarded
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-de-Marilia', ip: 'fe80:0:0:0:146a:7e69:a285:4917%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.4', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 75.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200403170909, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 14892, moz:profile: /var/folders/3l/mnsbbvwd041..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 18.5.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3b3c92db-e7e3-1d48-9a68-51a539c70cb9
+2020-04-10 03:14:22 [ERROR] [Choosing  a product][3][HomeInteraction] - [navigateToHomePage] [Ljava.lang.StackTraceElement;@778db7c5
+2020-04-10 03:14:24 [INFO ] [Choosing  a product][3][StepsHomePage] - [closeBrowser] Finishing Choosing  a product
+2020-04-10 03:14:26 [INFO ] [Choosing  a product][3][StepsLoginPage] - [closeBrowser] Finishing Choosing  a product

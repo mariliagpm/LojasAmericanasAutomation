@@ -1,0 +1,3 @@
+2020-04-10 03:21:22 [INFO ] [Choosing  a product][3][StepsSearchProduct] - [initiTestingFirefox] Scenario  Choosing  a product has started
+2020-04-10 03:21:26 [INFO ] [Choosing  a product][3][WebDriverBuilder] - [toWebDriver] Firefox was chosen
+2020-04-10 03:21:26 [INFO ] [Choosing  a product][3][StepsSearchProduct] - [initiTestingFirefox] Scenario  Choosing  a product is running on Firefox

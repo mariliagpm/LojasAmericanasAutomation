@@ -1,0 +1,26 @@
+2020-04-10 02:59:58 [INFO ] [Choosing  a product][2][StepsHomePage] - [initiTestingFirefox] Scenario  Choosing  a product has started
+2020-04-10 03:00:03 [INFO ] [Choosing  a product][2][WebDriverBuilder] - [toWebDriver] Firefox was chosen
+2020-04-10 03:00:03 [INFO ] [Choosing  a product][2][StepsHomePage] - [initiTestingFirefox] Scenario  Choosing  a product is running on Firefox
+2020-04-10 03:00:08 [INFO ] [Choosing  a product][2][HomeInteraction] - [navigateToHomePage] User is in the Home Page
+2020-04-10 03:00:08 [INFO ] [Choosing  a product][2][SeleniumTestWrapper] - [takeScreenshot] Taking a screenshot
+2020-04-10 03:00:10 [INFO ] [Choosing  a product][2][SeleniumTestWrapper] - [takeScreenshot] A screenshot was taken
+2020-04-10 03:00:15 [INFO ] [Choosing  a product][2][HomeInteraction] - [searchProduct] Product chosen was caneleira
+2020-04-10 03:00:15 [INFO ] [Choosing  a product][2][SeleniumTestWrapper] - [takeScreenshot] Taking a screenshot
+2020-04-10 03:00:16 [INFO ] [Choosing  a product][2][SeleniumTestWrapper] - [takeScreenshot] A screenshot was taken
+2020-04-10 03:00:16 [INFO ] [Choosing  a product][2][SeleniumTestWrapper] - [takeScreenshot] Taking a screenshot
+2020-04-10 03:00:16 [INFO ] [Choosing  a product][2][SeleniumTestWrapper] - [takeScreenshot] A screenshot was taken
+2020-04-10 03:00:16 [INFO ] [Choosing  a product][2][HomeInteraction] - [chooseProduct] Product index chosen was 2
+2020-04-10 03:00:20 [INFO ] [Choosing  a product][2][SeleniumTestWrapper] - [takeScreenshot] Taking a screenshot
+2020-04-10 03:00:21 [INFO ] [Choosing  a product][2][SeleniumTestWrapper] - [takeScreenshot] A screenshot was taken
+2020-04-10 03:00:22 [INFO ] [Choosing  a product][2][HomeInteraction] - [chooseProduct] Product chosen is the right one
+2020-04-10 03:00:22 [INFO ] [Choosing  a product][2][SeleniumTestWrapper] - [takeScreenshot] Taking a screenshot
+2020-04-10 03:00:22 [INFO ] [Choosing  a product][2][SeleniumTestWrapper] - [takeScreenshot] A screenshot was taken
+2020-04-10 03:00:34 [INFO ] [Choosing  a product][2][SeleniumTestWrapper] - [takeScreenshot] Taking a screenshot
+2020-04-10 03:00:35 [INFO ] [Choosing  a product][2][SeleniumTestWrapper] - [takeScreenshot] A screenshot was taken
+2020-04-10 03:00:37 [INFO ] [Choosing  a product][2][StepsHomePage] - [closeBrowser] Finishing Choosing  a product
+2020-04-10 03:00:37 [INFO ] [Choosing  a product][2][StepsHomePage] - [closeBrowser] Choosing  a product passed
+2020-04-10 03:01:53 [ERROR] [Choosing  a product][2][MailHelper] - [sendAttachEmail] com.sun.mail.util.MailConnectException: Couldn't connect to host, port: smtp.gmail.com, 25; timeout -1;
+  nested exception is:
+	java.net.ConnectException: Operation timed out (Connection timed out)
+2020-04-10 03:01:53 [ERROR] [Choosing  a product][2][MailHelper] - [sendAttachEmail] Email was not sent
+2020-04-10 03:01:54 [INFO ] [Choosing  a product][2][StepsHomePage] - [closeBrowser] Browser Firefox was closed

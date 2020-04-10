@@ -1,0 +1,34 @@
+2020-04-10 02:49:26 [INFO ] [Choosing  a product][3][StepsHomePage] - [initiTestingFirefox] Scenario  Choosing  a product has started
+2020-04-10 02:49:31 [INFO ] [Choosing  a product][3][WebDriverBuilder] - [toWebDriver] Firefox was chosen
+2020-04-10 02:49:31 [INFO ] [Choosing  a product][3][StepsHomePage] - [initiTestingFirefox] Scenario  Choosing  a product is running on Firefox
+2020-04-10 02:49:34 [INFO ] [Choosing  a product][3][HomeInteraction] - [navigateToHomePage] User is in the Home Page
+2020-04-10 02:49:34 [INFO ] [Choosing  a product][3][SeleniumTestWrapper] - [takeScreenshot] Taking a screenshot
+2020-04-10 02:49:35 [INFO ] [Choosing  a product][3][SeleniumTestWrapper] - [takeScreenshot] A screenshot was taken
+2020-04-10 02:49:41 [INFO ] [Choosing  a product][3][HomeInteraction] - [searchProduct] Product chosen was caneleira
+2020-04-10 02:49:41 [INFO ] [Choosing  a product][3][SeleniumTestWrapper] - [takeScreenshot] Taking a screenshot
+2020-04-10 02:49:41 [ERROR] [Choosing  a product][3][SeleniumTestWrapper] - [takeScreenshot] Browsing context has been discarded
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-de-Marilia', ip: 'fe80:0:0:0:146a:7e69:a285:4917%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.4', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 75.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200403170909, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 14781, moz:profile: /var/folders/3l/mnsbbvwd041..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 18.5.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 388a5e07-cda9-ec48-add0-96bf787d9788
+2020-04-10 02:49:41 [ERROR] [Choosing  a product][3][SeleniumTestWrapper] - [takeScreenshot] Error when it tried to take an screenshots
+2020-04-10 02:49:41 [INFO ] [Choosing  a product][3][SeleniumTestWrapper] - [takeScreenshot] Taking a screenshot
+2020-04-10 02:49:41 [ERROR] [Choosing  a product][3][SeleniumTestWrapper] - [takeScreenshot] Browsing context has been discarded
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-de-Marilia', ip: 'fe80:0:0:0:146a:7e69:a285:4917%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.4', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 75.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200403170909, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 14781, moz:profile: /var/folders/3l/mnsbbvwd041..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 18.5.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 388a5e07-cda9-ec48-add0-96bf787d9788
+2020-04-10 02:49:41 [ERROR] [Choosing  a product][3][SeleniumTestWrapper] - [takeScreenshot] Error when it tried to take an screenshots
+2020-04-10 02:49:41 [INFO ] [Choosing  a product][3][HomeInteraction] - [chooseProduct] Product index chosen was 3
+2020-04-10 02:49:41 [ERROR] [Choosing  a product][3][HomeInteraction] - [chooseProduct] It was not possible to choose a product
+2020-04-10 02:49:41 [ERROR] [Choosing  a product][3][HomeInteraction] - [chooseProduct] Browsing context has been discarded
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-de-Marilia', ip: 'fe80:0:0:0:146a:7e69:a285:4917%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.4', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 75.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200403170909, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 14781, moz:profile: /var/folders/3l/mnsbbvwd041..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 18.5.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 388a5e07-cda9-ec48-add0-96bf787d9788
+*** Element info: {Using=xpath, value=//div[@data-tracker="productgrid-main"]//div/div/div/div[@class="product-grid-item ColUI-gjy0oc-0 hFbhrr ViewUI-sc-1ijittn-6 iXIDWU"][3]//a}
+2020-04-10 02:49:41 [ERROR] [Choosing  a product][3][HomeInteraction] - [chooseProduct] [Ljava.lang.StackTraceElement;@4eb45fec
+2020-04-10 02:49:43 [INFO ] [Choosing  a product][3][StepsHomePage] - [closeBrowser] Finishing Choosing  a product

@@ -1,0 +1,8 @@
+2020-04-10 03:26:53 [INFO ] [Choosing  a product][3][StepsHomePage] - [initiTestingFirefox] Scenario  Choosing  a product has started
+2020-04-10 03:26:53 [INFO ] [Choosing  a product][3][StepsHomePage] - [initiTestingFirefox] Scenario  Choosing  a product is running on Firefox
+2020-04-10 03:26:59 [INFO ] [Choosing  a product][3][HomeInteraction] - [navigateToHomePage] User is in the Home Page
+2020-04-10 03:27:01 [INFO ] [Choosing  a product][3][StepsSearchProduct] - [closeBrowser] Finishing Choosing  a product
+2020-04-10 03:27:02 [ERROR] [Choosing  a product][3][StepsSearchProduct] - [closeBrowser] Choosing  a product did not passed
+2020-04-10 03:27:10 [INFO ] [Choosing  a product][3][StepsSearchProduct] - [closeBrowser] Browser Firefox was closed
+2020-04-10 03:27:12 [INFO ] [Choosing  a product][3][StepsLoginPage] - [closeBrowser] Finishing Choosing  a product
+2020-04-10 03:27:14 [INFO ] [Choosing  a product][3][StepsHomePage] - [closeBrowser] Finishing Choosing  a product

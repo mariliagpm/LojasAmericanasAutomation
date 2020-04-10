@@ -1,0 +1,22 @@
+2020-04-10 13:31:54 [INFO ] [Choosing  a product][3][StepsHomePage] - [initiTestingFirefox] Scenario  Choosing  a product has started
+2020-04-10 13:31:59 [INFO ] [Choosing  a product][3][WebDriverBuilder] - [toWebDriver] Firefox was chosen
+2020-04-10 13:31:59 [INFO ] [Choosing  a product][3][StepsHomePage] - [initiTestingFirefox] Scenario  Choosing  a product is running on Firefox
+2020-04-10 13:32:04 [INFO ] [Choosing  a product][3][HomeInteraction] - [navigateToHomePage] User is in the Home Page
+2020-04-10 13:32:04 [INFO ] [Choosing  a product][3][SeleniumTestWrapper] - [takeScreenshot] Taking a screenshot
+2020-04-10 13:32:05 [INFO ] [Choosing  a product][3][SeleniumTestWrapper] - [takeScreenshot] A screenshot was taken
+2020-04-10 13:32:11 [INFO ] [Choosing  a product][3][SearchProductInteraction] - [searchProduct] Product chosen was caneleira
+2020-04-10 13:32:11 [INFO ] [Choosing  a product][3][SeleniumTestWrapper] - [takeScreenshot] Taking a screenshot
+2020-04-10 13:32:12 [INFO ] [Choosing  a product][3][SeleniumTestWrapper] - [takeScreenshot] A screenshot was taken
+2020-04-10 13:32:12 [INFO ] [Choosing  a product][3][SeleniumTestWrapper] - [takeScreenshot] Taking a screenshot
+2020-04-10 13:32:12 [INFO ] [Choosing  a product][3][SeleniumTestWrapper] - [takeScreenshot] A screenshot was taken
+2020-04-10 13:32:12 [INFO ] [Choosing  a product][3][SearchProductInteraction] - [chooseProduct] Product index chosen was 3
+2020-04-10 13:32:16 [INFO ] [Choosing  a product][3][SeleniumTestWrapper] - [takeScreenshot] Taking a screenshot
+2020-04-10 13:32:16 [INFO ] [Choosing  a product][3][SeleniumTestWrapper] - [takeScreenshot] A screenshot was taken
+2020-04-10 13:32:17 [INFO ] [Choosing  a product][3][SearchProductInteraction] - [chooseProduct] Product chosen is the right one
+2020-04-10 13:32:17 [INFO ] [Choosing  a product][3][SeleniumTestWrapper] - [takeScreenshot] Taking a screenshot
+2020-04-10 13:32:17 [INFO ] [Choosing  a product][3][SeleniumTestWrapper] - [takeScreenshot] A screenshot was taken
+2020-04-10 13:32:30 [INFO ] [Choosing  a product][3][SeleniumTestWrapper] - [takeScreenshot] Taking a screenshot
+2020-04-10 13:32:30 [INFO ] [Choosing  a product][3][SeleniumTestWrapper] - [takeScreenshot] A screenshot was taken
+2020-04-10 13:32:32 [INFO ] [Choosing  a product][3][StepsHomePage] - [closeBrowser] Finishing Choosing  a product
+2020-04-10 13:32:32 [INFO ] [Choosing  a product][3][StepsHomePage] - [closeBrowser] Choosing  a product passed
+2020-04-10 13:32:37 [INFO ] [Choosing  a product][3][StepsHomePage] - [closeBrowser] Browser Firefox was closed
